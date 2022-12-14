@@ -1,2 +1,0 @@
-# ughacker
-Hello 👋
